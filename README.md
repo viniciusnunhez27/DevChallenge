@@ -8,7 +8,7 @@
 
 
 
-> Projeto desafia conceitos das tecnologias HTML e CSS.
+
 
 
 
