@@ -5,21 +5,32 @@ Desafio para treinar Habilidades.
 
 
 
-<img src="/Projeto.png" alt="exemplo imagem">
+<img src="/Projeto.png" alt="Imagem-Projeto">
+
+
 
 > Projeto desafia conceitos das tecnologias HTML e CSS.
 
 
 
-## Sobre
+## 📑 Sobre
 
-O Projeto Amazing Graph é uma Landing Page desenvolvido pela DevChallenge, sua função é para os desenvolvedores colocarem em prática o desafio proposto.
+O Projeto **Amazing Graph** é uma Landing Page desenvolvido pela DevChallenge, sua função é para os desenvolvedores colocarem em prática o desafio proposto.
+
+## Tecnologias Utilizadas.
+
+O projeto foi desenvolvido as seguintes tecnologias.
+
+- HTML
+- CSS
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] - Alinhar a imagem o mais perto possivel, pois faltou esse detalhe.
-- [ ] - Prototipar o projeto no FIGMA , pois o projeto não tem as medidas exatas.
+- [x] - Ajustar o Posicionamento que ainda não está  100 % . 
+- [ ]  - Adcionar algumas alterações nos menus ( features,contact)
+- [ ]  - **Features**, Criar algum ficticio com algum trabalho ou exposição de Gráficos.
+- [ ]  - **Contatc**  - Criar formulário para entrar em contato com a "Empresa".
 
-
+ 
