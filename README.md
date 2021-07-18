@@ -5,7 +5,7 @@ Desafio para treinar Habilidades.
 
 
 
-<img src="/Projeto.png" alt="Imagem-Projeto">
+<img src="/assets/Amazing_graph_gif.gif" alt="Imagem-Projeto">
 
 
 
@@ -29,6 +29,7 @@ O projeto foi desenvolvido as seguintes tecnologias.
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] - Ajustar o Posicionamento que ainda não está  100 % . 
+- [x] - adicioanr estilizações **hover** no menu de navegação e no botão Start Now.
 - [ ]  - Adcionar algumas alterações nos menus ( features,contact)
 - [ ]  - **Features**, Criar algum ficticio com algum trabalho ou exposição de Gráficos.
 - [ ]  - **Contatc**  - Criar formulário para entrar em contato com a "Empresa".

@@ -46,6 +46,12 @@ header {
    color: #766F68;
 }
 
+.menu-nav a:hover {
+   color: #D2872C;
+   transition: color 700ms;
+  
+}
+
 
 .menu-nav li {
   list-style: none;
